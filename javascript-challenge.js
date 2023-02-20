@@ -64,7 +64,6 @@ function checkboxes(widget) {
       return checkedCount += r.checked ? 1 : 0;
     }); // filter() would nto work on this collection
     controlling.indeterminate = false;
-    console.log(">>> Relatd click ...", checkedCount, related.length);
     if (checkedCount == 0) {
       controlling.checked = false;
     } else if (checkedCount == related.length) {
