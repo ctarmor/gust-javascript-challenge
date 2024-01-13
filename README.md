@@ -1,3 +1,7 @@
+This was a online test for https://gust.com/
+
+They did not hire me but you can reference thisfor your evalualtion.  
+
 # Gust Developer/Designer Challenge
 We’d like you to use our simple, fake javascript framework to create a widget that handles some linked checkboxes. You'll find examples of other widgets in this repo, which you may use to guide you and to figure out how the framework functions. 
 
